@@ -17,6 +17,6 @@ Lançado em **2012**, o **Flexbox (CSS Flexible Box Layout)** revolucionou o des
 
 ✅ **Padronização:**  
 A especificação **CSS Flexbox** foi finalizada pelo **W3C em 2012**, com **suporte completo nos navegadores a partir de 2015**.  
-No início dos meus estudos, o site do W3C me ajudou bastante a entender como tudo funciona: 🌐 [W3C CSS Flexbox](https://www.w3.org/TR/css-flexbox-1/)
+No início dos meus estudos, o site do W3C me ajudou bastante a entender como tudo funciona: 🌐 [W3C CSS Flexbox](https://https://www.w3schools.com/html/)
 
 
